@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.umpay.test.bdd.CrossborderFixture
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.587 sec <<< FAILURE! - in com.umpay.test.bdd.CrossborderFixture
+[Concordion Specification for 'Crossborder'](com.umpay.test.bdd.CrossborderFixture)  Time elapsed: 2.966 sec  <<< FAILURE!
+org.concordion.internal.ConcordionAssertionError: Specification has exception(s). See output HTML for details.
+

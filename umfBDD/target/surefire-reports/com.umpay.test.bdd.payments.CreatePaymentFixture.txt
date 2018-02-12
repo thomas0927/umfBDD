@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.umpay.test.bdd.payments.CreatePaymentFixture
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.042 sec <<< FAILURE! - in com.umpay.test.bdd.payments.CreatePaymentFixture
+[Concordion Specification for 'CreatePayment'](com.umpay.test.bdd.payments.CreatePaymentFixture)  Time elapsed: 0 sec  <<< FAILURE!
+org.concordion.internal.ConcordionAssertionError: Specification has exception(s). See output HTML for details.
+
