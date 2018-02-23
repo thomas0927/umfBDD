@@ -15,8 +15,6 @@ package com.umpay.test.bdd;
 import org.concordion.api.extension.Extensions;
 import org.concordion.ext.ParallelRunExtension;
 import org.concordion.ext.timing.TimerExtension;
-import org.concordion.integration.junit4.ConcordionRunner;
-import org.junit.runner.RunWith;
 
 /*************************************************************************
  * description : TODO
@@ -24,7 +22,6 @@ import org.junit.runner.RunWith;
  * @date        2018年2月8日 上午10:35:11
  * @version     1.0             
  *************************************************************************/
-@RunWith(ConcordionRunner.class)
 @Extensions({TimerExtension.class,ParallelRunExtension.class})
 public abstract class BaseFixture {
 

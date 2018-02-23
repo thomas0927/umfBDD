@@ -1,8 +1,0 @@
-com\umpay\test\bdd\CrossborderFixture.class
-com\umpay\test\bdd\payments\ValidOrderParametersFixture.class
-com\umpay\test\bdd\payments\CalculateRateFixture.class
-com\umpay\test\bdd\payments\CheckCurrencyFixture.class
-com\umpay\test\bdd\payments\CreatePaymentFixture.class
-com\umpay\test\bdd\payments\CreateMerProductFixture.class
-com\umpay\test\bdd\payments\OauthAuthorizeFixture.class
-com\umpay\test\bdd\BaseFixture.class
