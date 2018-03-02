@@ -10,6 +10,11 @@
 
 文档中我粘贴了原始文档，及以BDD分解后的需求文档，并提供了调用Oauth测试的验证数据，这里我想要说明一下，实际项目中，最初的BDD文档应该是具备完整的验收目标且包含数据的，但是验证的结果可以是失败的，最终完成的代码将全部的验收要求执行通过，视为项目目标的达成，这里就特别强大大家有批判性思维，也就是站在产品、技术、测试、运维、运营各个维度去思考产品如何验证，还有哪些非功能性需要验证了。
 
+## 快速使用
+1. 下载工程后使用maven test进行编译
+1. 编译通过后会将文档输出到target/concordion/com/umpay/test/bdd下面
+1. 本示例入口请访问target/concordion/com/umpay/test/bdd/Crossborder.html
+
 ## 工程说明
 我提供了Concordion的基本能力，及用例耗时统计、Excel表格的扩展示例。更多内容请参阅
 [Concordion的官方文档](http://concordion.org/tutorial/java/markdown/)。
